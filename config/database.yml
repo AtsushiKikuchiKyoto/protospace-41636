@@ -20,6 +20,8 @@ development:
   password:
   host: localhost
   database: protospace-41636_development
+# localの時は  protospace_41636_development
+# renderの時は protospace-41636_development
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
